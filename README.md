@@ -1,1 +1,2 @@
-# firebaseguide on web android and Admin SDK
+# firebaseguide on web, Android and adminSDK
+
